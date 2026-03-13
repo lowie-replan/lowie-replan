@@ -32,7 +32,7 @@
 <div align="center">
 
 ### Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](www.linkedin.com/in/lowie-john-replan)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/lowie-john-replan)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:replanlowiejohn@gmail.com)
 
 </div>
