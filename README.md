@@ -1,18 +1,38 @@
-## Hi there 👋
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowie-replan&layout=compact&theme=vision-friendly-dark&hide_border=true)
+<div align="center">
 
-<!--
-**lowie-replan/lowie-replan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lowie John Replan
+### Full-Stack Developer | Mobile Application Developer | AI & Machine Learning
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages
+[![My Languages](https://skillicons.dev/icons?i=java,python,html,css,js,ts,php,kotlin&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+---
+
+### Tools & Frameworks
+[![Tools & Frameworks](https://skillicons.dev/icons?i=react,laravel,bootstrap,tensorflow,pytorch,androidstudio,gradle,figma,ps&theme=dark)](https://skillicons.dev)
+> **AI/ML Focus:** Transfer Learning • Data Annotation • Model Evaluation • Fine Tuning
+
+<br/>
+
+---
+
+### Database
+[![Databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+---
+
+<div align="center">
+
+### Connect with me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](www.linkedin.com/in/lowie-john-replan)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:replanlowiejohn@gmail.com)
+
+</div>
