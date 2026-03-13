@@ -1,4 +1,6 @@
 ## Hi there 👋
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowie-replan&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 <!--
 **lowie-replan/lowie-replan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
