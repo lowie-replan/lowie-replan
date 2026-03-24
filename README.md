@@ -15,7 +15,7 @@
 ---
 
 ### Tools & Frameworks
-[![Tools & Frameworks](https://skillicons.dev/icons?i=react,vite,supabase,laravel,bootstrap,tensorflow,pytorch,androidstudio,gradle,figma,ps&theme=dark)](https://skillicons.dev)
+[![Tools & Frameworks](https://skillicons.dev/icons?i=react,vite,supabase,tailwind,laravel,bootstrap,tensorflow,pytorch,androidstudio,gradle,figma,ps&theme=dark)](https://skillicons.dev)
 > **AI/ML Focus:** Transfer Learning • Data Annotation • Model Evaluation • Fine Tuning
 
 <br/>
