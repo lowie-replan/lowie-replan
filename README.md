@@ -23,7 +23,7 @@
 ---
 
 ### Database
-[![Databases](https://skillicons.dev/icons?i=mysql,posgres&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
 
 <br/>
 
